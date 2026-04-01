@@ -1,6 +1,6 @@
 import logging
 import os
-from aiogram import Bot, Dispather, types
+from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 API_TOKEN = os.getenv("BOT_TOKEN")
 
